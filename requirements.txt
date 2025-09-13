@@ -1,0 +1,3 @@
+# Optional: install cryptography if you plan to add encryption for control packets
+cryptography>=3.4.7
+# No other packages required for this prototype
