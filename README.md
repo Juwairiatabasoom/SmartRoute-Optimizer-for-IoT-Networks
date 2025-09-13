@@ -1,4 +1,4 @@
-# SmartRoute-Optimizer-for-IoT-Networks
+# Secure-Smart-Route-Optimizer-for-IoT-Networks
 
 SmartRoute is a **cybersecurity-focused IoT routing system** that extends the CAFOR algorithm (Congestion Avoidance using Fuzzy Logic for Optimal Routing).  
 It combines **fuzzy-logic–based parent selection** with a **lightweight Intrusion Detection System (IDS)** to protect against malicious routing behaviors such as **sinkhole or selective forwarding attacks** in 6LoWPAN IoT networks.  
